@@ -1,3 +1,15 @@
+/**
+ * RockPaperScissorsLizardSpock.java
+ *
+ * This program allows the user to play the Rock-Paper-Scissors-Lizard-Spock game
+ * against the computer. The game tracks the score between the user and the computer,
+ * displays the score after each round, and allows the user to quit at any time.
+ *
+ * @author Smit Patel
+ * @date February 1, 2025
+ * @studentNumber 0849357
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
