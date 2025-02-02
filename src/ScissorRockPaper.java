@@ -11,6 +11,9 @@ public class ScissorRockPaper {
 
         String[] choices = {"Scissors", "Rock", "Paper", "Lizard", "Spock"};
 
+        int userScore = 0, computerScore = 0;
+        boolean keepPlaying = true;
+        
         int computerChoice = random.nextInt(5);
 
         System.out.print("Scissors (0), Rock (1), Paper (2), Lizard (3), Spock (4): ");
