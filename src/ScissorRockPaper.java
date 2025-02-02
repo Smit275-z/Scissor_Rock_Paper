@@ -11,9 +11,9 @@ public class ScissorRockPaper {
 
         String[] choices = {"Scissors", "Rock", "Paper", "Lizard", "Spock"};
 
-        int computerChoice = random.nextInt(3);
+        int computerChoice = random.nextInt(5);
 
-        System.out.print("Scissor (0), Rock (1), Paper (2): ");
+        System.out.print("Scissors (0), Rock (1), Paper (2), Lizard (3), Spock (4): ");
         int userChoice = scanner.nextInt();
 
         // Input validation
