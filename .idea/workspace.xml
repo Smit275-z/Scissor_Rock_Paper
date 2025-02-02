@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7635e47-8668-408e-9111-5a70d5ad4ef1" name="Changes" comment="" />
+    <list default="true" id="d7635e47-8668-408e-9111-5a70d5ad4ef1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/git config.png" beforeDir="false" afterPath="$PROJECT_DIR$/git config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlog_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/gitlog_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlog_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/gitlog_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlog_3.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +18,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Smit275-z"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Smit275-z&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Smit275-z/Scissor_Rock_Paper.git",
-    "accountId": "1b043efd-0ed6-44c6-9da7-2f436d4a886f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Smit275-z/Scissor_Rock_Paper.git&quot;,
+    &quot;accountId&quot;: &quot;1b043efd-0ed6-44c6-9da7-2f436d4a886f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2sTDdRHO14J2gKUAdEXLD9LkfBd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,9 +41,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ScissorRockPaper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Score",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/brijesh/Desktop/smit java/rock paper sciessor/Scissor_Rock_Paper",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738470822033</updated>
-      <workItem from="1738470823165" duration="440000" />
+      <workItem from="1738470823165" duration="1093000" />
+      <workItem from="1738472728206" duration="2302000" />
     </task>
     <servers />
   </component>
