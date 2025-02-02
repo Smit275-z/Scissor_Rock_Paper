@@ -14,10 +14,9 @@ public class ScissorRockPaper {
         int userScore = 0, computerScore = 0;
 
         while (true) {
-            // Generate computer's choice
+
             int computerChoice = random.nextInt(5);
 
-            // Prompt user for input
             System.out.print("\nScissors (0), Rock (1), Paper (2), Lizard (3), Spock (4) or Quit (-1): ");
             int userChoice = scanner.nextInt();
 
@@ -33,10 +32,8 @@ public class ScissorRockPaper {
                 continue;
             }
 
-            // Display choices
             System.out.println("The computer chose " + choices[computerChoice] + ". You chose " + choices[userChoice] + ".");
 
-            // Determine the winner based on game rules
             if (userChoice == computerChoice) {
                 System.out.println("It is a draw.");
             } else if ((userChoice == 0 && (computerChoice == 2 || computerChoice == 3)) ||  // Scissors cuts Paper, decapitates Lizard
