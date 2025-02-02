@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7635e47-8668-408e-9111-5a70d5ad4ef1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScissorRockPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScissorRockPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git config.png" beforeDir="false" afterPath="$PROJECT_DIR$/git config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlog_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/gitlog_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlog_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/gitlog_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlog_3.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
