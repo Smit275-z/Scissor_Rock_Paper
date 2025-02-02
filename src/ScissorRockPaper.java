@@ -9,7 +9,7 @@ public class ScissorRockPaper {
         // Random number generator for computer's choice
         Random random = new Random();
 
-        String[] choices = {"Scissor", "Rock", "Paper"};
+        String[] choices = {"Scissors", "Rock", "Paper", "Lizard", "Spock"};
 
         int computerChoice = random.nextInt(3);
 
