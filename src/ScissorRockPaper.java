@@ -24,9 +24,11 @@ public class ScissorRockPaper {
 
             if (userChoice == computerChoice) {
                 System.out.println("It is a draw");
-            } else if ((userChoice == 0 && computerChoice == 2) ||
-                    (userChoice == 1 && computerChoice == 0) ||
-                    (userChoice == 2 && computerChoice == 1)) {
+            } else if ((userChoice == 0 && (computerChoice == 2 || computerChoice == 3)) ||  // Scissors cuts Paper, decapitates Lizard
+                    (userChoice == 1 && (computerChoice == 0 || computerChoice == 3)) ||  // Rock crushes Scissors, crushes Lizard
+                    (userChoice == 2 && (computerChoice == 1 || computerChoice == 4)) ||  // Paper covers Rock, disproves Spock
+                    (userChoice == 3 && (computerChoice == 2 || computerChoice == 4)) ||  // Lizard eats Paper, poisons Spock
+                    (userChoice == 4 && (computerChoice == 0 || computerChoice == 1))) {  // Spock smashes Scissors, vaporizes Rock
                 System.out.println("You won");
             } else {
                 System.out.println("You lost");
