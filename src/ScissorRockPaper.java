@@ -17,7 +17,7 @@ public class ScissorRockPaper {
         int userChoice = scanner.nextInt();
 
         // Input validation
-        if (userChoice < 0 || userChoice > 2) {
+        if (userChoice < 0 || userChoice > 4) {
             System.out.println("Invalid choice! Please enter 0, 1, or 2.");
         } else {
             System.out.println("The computer is " + choices[computerChoice] + ". You are " + choices[userChoice] + ".");
